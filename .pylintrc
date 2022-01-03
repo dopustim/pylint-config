@@ -3,8 +3,9 @@ iignore-patterns=^.*test.py$
 jobs=4
 
 [MESSAGES CONTROL]
+# C0103 - Name doesn't conform to naming style
 # C0111 - Missing docstring
-disable=C0111
+disable=C0103,C0111
 
 [FORMAT]
 expected-line-ending-format=LF

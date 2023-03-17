@@ -1,5 +1,5 @@
 [MASTER]
-iignore-patterns=^.*test.py$
+ignore-patterns=^.*test.py$
 jobs=4
 
 [MESSAGES CONTROL]
